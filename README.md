@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-Este es un repositorio de prueba del prepcurso de henry
+Este es una prueba de como crear un repositorio y como clonarlo a mi escritorio
